@@ -1,0 +1,12 @@
+clearscreen 
+to Hose 
+  PenDown 
+  Make "Length 200
+  Repeat 20 [
+    Forward :Length
+    Make "Length (:Length - 10)
+    Right 35
+  ]
+End
+
+Hose

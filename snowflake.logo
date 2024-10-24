@@ -1,0 +1,31 @@
+clearscreen
+To Snowflake 
+  PenUp
+  Forward 100
+  Right 120
+  PenDown
+  Repeat 6 [
+    Left 60
+    Forward 100
+    Right 120
+    Forward 100
+  ]
+  Left 120
+  Back 100
+  Repeat 6 [
+    Forward 200
+    Back 50
+    Right 60
+    Forward 50
+    Back 50
+    Left 120
+    Forward 50
+    Back 50
+    Right 60
+    Back 150
+    Right 60
+  ]
+End
+
+
+Snowflake

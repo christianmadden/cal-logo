@@ -1,0 +1,12 @@
+clearscreen
+To Lawnmower
+  PenDown
+  Make "Length 10
+  Repeat 40 [
+    Forward :Length
+    Make "Length (:Length + 10)
+    Right 90
+  ]
+End
+
+Lawnmower
